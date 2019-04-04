@@ -1,1 +1,3 @@
 textgenrnn.py
+tensorflow.py
+python 3.6.5
